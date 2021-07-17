@@ -21,6 +21,7 @@ Monthly data
 | State        | District           | Source  |
 | ------------- |:-------------:| -----:|
 | [Haryana](Haryana.csv) | [Haryana Districts](/district-level/Haryana-districts.csv) | CRS |
+| [Chandigarh](Chandigarh.csv) | [Chandigarh](/district-level/Chandigarh-districts.csv) | CRS |
 | TBD | TBD | TBD |
 
 
