@@ -21,6 +21,7 @@ Monthly data
 | State        | District           | Source  |
 | ------------- |:-------------:| -----:|
 | [Haryana](Haryana.csv) | [Haryana Districts](/district-level/Haryana-districts.csv) | CRS |
+| [Himachal Pradesh](Himachal%20Pradesh.csv) | [Himachal Pradesh Districts](/district-level/Himachal%20Pradesh-districts.csv) | CRS |
 | [Chandigarh](Chandigarh.csv) | [Chandigarh](/district-level/Chandigarh-districts.csv) | CRS |
 | TBD | TBD | TBD |
 
@@ -30,6 +31,7 @@ Monthly data
 News stories reported using this data
 
 - [Excess deaths in Haryana seven times official COVID-19 toll](https://www.thehindu.com/news/national/excess-deaths-in-haryana-seven-times-official-covid-19-toll/article35329023.ece) - Srinivasan Ramani, The Hindu
+- [Himachal Pradesh ‘excess deaths’ twice the official COVID-19 toll](https://www.thehindu.com/news/national/himachal-pradesh-excess-deaths-twice-the-official-covid-19-toll/article35430252.ece) - The Hindu
 
 ---
 
