@@ -1,0 +1,912 @@
+date,state,district,female,male,deaths
+2018-01-01,West Bengal,Darjeeling ,3.0,8.0,11
+2018-01-01,West Bengal,Jalpaiguri ,472.0,704.0,1176
+2018-01-01,West Bengal,Koch Bihar ,302.0,473.0,775
+2018-01-01,West Bengal,Uttar Dinajpur,553.0,861.0,1414
+2018-01-01,West Bengal,Dakshin Dinajpur,362.0,527.0,889
+2018-01-01,West Bengal,Maldah ,791.0,1132.0,1923
+2018-01-01,West Bengal,Murshidabad ,1832.0,2142.0,3974
+2018-01-01,West Bengal,Birbhum,956.0,1309.0,2265
+2018-01-01,West Bengal,Purba Bardhaman ,1260.0,1689.0,2949
+2018-01-01,West Bengal,Nadia ,1191.0,1742.0,2933
+2018-01-01,West Bengal,North Twenty Four Parganas,106.0,128.0,234
+2018-01-01,West Bengal,Hooghly,1964.0,2573.0,4537
+2018-01-01,West Bengal,Bankura ,743.0,966.0,1709
+2018-01-01,West Bengal,Puruliya,435.0,663.0,1098
+2018-01-01,West Bengal,Howrah,1023.0,1482.0,2505
+2018-01-01,West Bengal,South Twenty Four Parganas,841.0,1054.0,1895
+2018-01-01,West Bengal,Paschim Medinipur,298.0,383.0,681
+2018-01-01,West Bengal,Purba Medinipur,1325.0,1585.0,2910
+2018-01-01,West Bengal,Alipurduar,386.0,598.0,984
+2018-01-01,West Bengal,Jhargram,21.0,42.0,63
+2018-01-01,West Bengal,Paschim Bardhaman,341.0,508.0,849
+2018-02-01,West Bengal,Darjeeling ,2.0,4.0,6
+2018-02-01,West Bengal,Jalpaiguri ,345.0,582.0,927
+2018-02-01,West Bengal,Koch Bihar ,252.0,339.0,591
+2018-02-01,West Bengal,Uttar Dinajpur,454.0,660.0,1114
+2018-02-01,West Bengal,Dakshin Dinajpur,294.0,396.0,690
+2018-02-01,West Bengal,Maldah ,618.0,832.0,1450
+2018-02-01,West Bengal,Murshidabad ,1302.0,1624.0,2926
+2018-02-01,West Bengal,Birbhum,698.0,975.0,1673
+2018-02-01,West Bengal,Purba Bardhaman ,874.0,1255.0,2129
+2018-02-01,West Bengal,Nadia ,844.0,1189.0,2033
+2018-02-01,West Bengal,North Twenty Four Parganas,72.0,109.0,181
+2018-02-01,West Bengal,Hooghly,1322.0,1708.0,3030
+2018-02-01,West Bengal,Bankura ,533.0,658.0,1191
+2018-02-01,West Bengal,Puruliya,336.0,443.0,779
+2018-02-01,West Bengal,Howrah,754.0,1032.0,1786
+2018-02-01,West Bengal,South Twenty Four Parganas,558.0,766.0,1324
+2018-02-01,West Bengal,Paschim Medinipur,233.0,285.0,518
+2018-02-01,West Bengal,Purba Medinipur,932.0,1087.0,2019
+2018-02-01,West Bengal,Alipurduar,304.0,463.0,767
+2018-02-01,West Bengal,Jhargram,9.0,23.0,32
+2018-02-01,West Bengal,Paschim Bardhaman,279.0,426.0,705
+2018-03-01,West Bengal,Darjeeling ,4.0,6.0,10
+2018-03-01,West Bengal,Jalpaiguri ,353.0,554.0,907
+2018-03-01,West Bengal,Koch Bihar ,267.0,397.0,664
+2018-03-01,West Bengal,Uttar Dinajpur,406.0,678.0,1084
+2018-03-01,West Bengal,Dakshin Dinajpur,270.0,397.0,667
+2018-03-01,West Bengal,Maldah ,534.0,900.0,1434
+2018-03-01,West Bengal,Murshidabad ,1147.0,1597.0,2744
+2018-03-01,West Bengal,Birbhum,643.0,981.0,1624
+2018-03-01,West Bengal,Purba Bardhaman ,894.0,1255.0,2149
+2018-03-01,West Bengal,Nadia ,766.0,1141.0,1907
+2018-03-01,West Bengal,North Twenty Four Parganas,78.0,112.0,190
+2018-03-01,West Bengal,Hooghly,1150.0,1642.0,2792
+2018-03-01,West Bengal,Bankura ,447.0,647.0,1094
+2018-03-01,West Bengal,Puruliya,280.0,450.0,730
+2018-03-01,West Bengal,Howrah,602.0,912.0,1514
+2018-03-01,West Bengal,South Twenty Four Parganas,485.0,724.0,1209
+2018-03-01,West Bengal,Paschim Medinipur,184.0,246.0,430
+2018-03-01,West Bengal,Purba Medinipur,816.0,989.0,1805
+2018-03-01,West Bengal,Alipurduar,310.0,473.0,783
+2018-03-01,West Bengal,Jhargram,20.0,34.0,54
+2018-03-01,West Bengal,Paschim Bardhaman,264.0,378.0,642
+2018-04-01,West Bengal,Darjeeling ,2.0,5.0,7
+2018-04-01,West Bengal,Jalpaiguri ,296.0,469.0,765
+2018-04-01,West Bengal,Koch Bihar ,213.0,394.0,607
+2018-04-01,West Bengal,Uttar Dinajpur,293.0,468.0,761
+2018-04-01,West Bengal,Dakshin Dinajpur,197.0,305.0,502
+2018-04-01,West Bengal,Maldah ,481.0,741.0,1222
+2018-04-01,West Bengal,Murshidabad ,982.0,1361.0,2343
+2018-04-01,West Bengal,Birbhum,577.0,787.0,1364
+2018-04-01,West Bengal,Purba Bardhaman ,754.0,1132.0,1886
+2018-04-01,West Bengal,Nadia ,654.0,965.0,1619
+2018-04-01,West Bengal,North Twenty Four Parganas,121.0,116.0,237
+2018-04-01,West Bengal,Hooghly,1028.0,1375.0,2403
+2018-04-01,West Bengal,Bankura ,361.0,518.0,879
+2018-04-01,West Bengal,Puruliya,215.0,352.0,567
+2018-04-01,West Bengal,Howrah,525.0,712.0,1237
+2018-04-01,West Bengal,South Twenty Four Parganas,402.0,651.0,1053
+2018-04-01,West Bengal,Paschim Medinipur,196.0,252.0,448
+2018-04-01,West Bengal,Purba Medinipur,694.0,910.0,1604
+2018-04-01,West Bengal,Alipurduar,248.0,386.0,634
+2018-04-01,West Bengal,Jhargram,23.0,38.0,61
+2018-04-01,West Bengal,Paschim Bardhaman,187.0,313.0,500
+2018-05-01,West Bengal,Darjeeling ,16.0,34.0,50
+2018-05-01,West Bengal,Jalpaiguri ,327.0,553.0,880
+2018-05-01,West Bengal,Koch Bihar ,294.0,422.0,716
+2018-05-01,West Bengal,Uttar Dinajpur,310.0,493.0,803
+2018-05-01,West Bengal,Dakshin Dinajpur,212.0,340.0,552
+2018-05-01,West Bengal,Maldah ,467.0,799.0,1266
+2018-05-01,West Bengal,Murshidabad ,1077.0,1490.0,2567
+2018-05-01,West Bengal,Birbhum,666.0,888.0,1554
+2018-05-01,West Bengal,Purba Bardhaman ,793.0,1236.0,2029
+2018-05-01,West Bengal,Nadia ,683.0,1049.0,1732
+2018-05-01,West Bengal,North Twenty Four Parganas,139.0,209.0,348
+2018-05-01,West Bengal,Hooghly,1032.0,1415.0,2447
+2018-05-01,West Bengal,Bankura ,443.0,604.0,1047
+2018-05-01,West Bengal,Puruliya,256.0,447.0,703
+2018-05-01,West Bengal,Howrah,473.0,746.0,1219
+2018-05-01,West Bengal,South Twenty Four Parganas,500.0,716.0,1216
+2018-05-01,West Bengal,Paschim Medinipur,205.0,271.0,476
+2018-05-01,West Bengal,Purba Medinipur,722.0,931.0,1653
+2018-05-01,West Bengal,Alipurduar,290.0,471.0,761
+2018-05-01,West Bengal,Jhargram,18.0,40.0,58
+2018-05-01,West Bengal,Paschim Bardhaman,205.0,384.0,589
+2018-06-01,West Bengal,Darjeeling ,44.0,48.0,92
+2018-06-01,West Bengal,Jalpaiguri ,340.0,504.0,844
+2018-06-01,West Bengal,Koch Bihar ,253.0,401.0,654
+2018-06-01,West Bengal,Uttar Dinajpur,356.0,590.0,946
+2018-06-01,West Bengal,Dakshin Dinajpur,211.0,329.0,540
+2018-06-01,West Bengal,Maldah ,489.0,796.0,1285
+2018-06-01,West Bengal,Murshidabad ,1047.0,1425.0,2472
+2018-06-01,West Bengal,Birbhum,573.0,847.0,1420
+2018-06-01,West Bengal,Purba Bardhaman ,791.0,1162.0,1953
+2018-06-01,West Bengal,Nadia ,629.0,886.0,1515
+2018-06-01,West Bengal,North Twenty Four Parganas,209.0,315.0,524
+2018-06-01,West Bengal,Hooghly,1011.0,1384.0,2395
+2018-06-01,West Bengal,Bankura ,427.0,656.0,1083
+2018-06-01,West Bengal,Puruliya,235.0,432.0,667
+2018-06-01,West Bengal,Howrah,511.0,801.0,1312
+2018-06-01,West Bengal,South Twenty Four Parganas,542.0,737.0,1279
+2018-06-01,West Bengal,Paschim Medinipur,202.0,348.0,550
+2018-06-01,West Bengal,Purba Medinipur,731.0,936.0,1667
+2018-06-01,West Bengal,Alipurduar,242.0,455.0,697
+2018-06-01,West Bengal,Jhargram,21.0,53.0,74
+2018-06-01,West Bengal,Paschim Bardhaman,186.0,334.0,520
+2018-07-01,West Bengal,Darjeeling ,35.0,62.0,97
+2018-07-01,West Bengal,Jalpaiguri ,366.0,535.0,901
+2018-07-01,West Bengal,Koch Bihar ,258.0,390.0,648
+2018-07-01,West Bengal,Uttar Dinajpur,388.0,629.0,1017
+2018-07-01,West Bengal,Dakshin Dinajpur,226.0,347.0,573
+2018-07-01,West Bengal,Maldah ,486.0,743.0,1229
+2018-07-01,West Bengal,Murshidabad ,962.0,1303.0,2265
+2018-07-01,West Bengal,Birbhum,580.0,870.0,1450
+2018-07-01,West Bengal,Purba Bardhaman ,756.0,1146.0,1902
+2018-07-01,West Bengal,Nadia ,581.0,983.0,1564
+2018-07-01,West Bengal,North Twenty Four Parganas,249.0,316.0,565
+2018-07-01,West Bengal,Hooghly,1019.0,1474.0,2493
+2018-07-01,West Bengal,Bankura ,457.0,652.0,1109
+2018-07-01,West Bengal,Puruliya,244.0,461.0,705
+2018-07-01,West Bengal,Howrah,507.0,797.0,1304
+2018-07-01,West Bengal,South Twenty Four Parganas,524.0,737.0,1261
+2018-07-01,West Bengal,Paschim Medinipur,284.0,384.0,668
+2018-07-01,West Bengal,Purba Medinipur,757.0,974.0,1731
+2018-07-01,West Bengal,Alipurduar,296.0,395.0,691
+2018-07-01,West Bengal,Jhargram,25.0,46.0,71
+2018-07-01,West Bengal,Paschim Bardhaman,204.0,328.0,532
+2018-08-01,West Bengal,Darjeeling ,56.0,66.0,122
+2018-08-01,West Bengal,Jalpaiguri ,330.0,528.0,858
+2018-08-01,West Bengal,Koch Bihar ,247.0,424.0,671
+2018-08-01,West Bengal,Uttar Dinajpur,373.0,592.0,965
+2018-08-01,West Bengal,Dakshin Dinajpur,250.0,328.0,578
+2018-08-01,West Bengal,Maldah ,511.0,785.0,1296
+2018-08-01,West Bengal,Murshidabad ,989.0,1354.0,2343
+2018-08-01,West Bengal,Birbhum,638.0,949.0,1587
+2018-08-01,West Bengal,Purba Bardhaman ,834.0,1251.0,2085
+2018-08-01,West Bengal,Nadia ,736.0,1073.0,1809
+2018-08-01,West Bengal,North Twenty Four Parganas,268.0,372.0,640
+2018-08-01,West Bengal,Hooghly,1134.0,1471.0,2605
+2018-08-01,West Bengal,Bankura ,473.0,673.0,1146
+2018-08-01,West Bengal,Puruliya,306.0,532.0,838
+2018-08-01,West Bengal,Howrah,600.0,738.0,1338
+2018-08-01,West Bengal,South Twenty Four Parganas,532.0,791.0,1323
+2018-08-01,West Bengal,Paschim Medinipur,318.0,471.0,789
+2018-08-01,West Bengal,Purba Medinipur,774.0,1067.0,1841
+2018-08-01,West Bengal,Alipurduar,272.0,435.0,707
+2018-08-01,West Bengal,Jhargram,40.0,73.0,113
+2018-08-01,West Bengal,Paschim Bardhaman,231.0,373.0,604
+2018-09-01,West Bengal,Darjeeling ,65.0,96.0,161
+2018-09-01,West Bengal,Jalpaiguri ,325.0,581.0,906
+2018-09-01,West Bengal,Koch Bihar ,244.0,396.0,640
+2018-09-01,West Bengal,Uttar Dinajpur,383.0,712.0,1095
+2018-09-01,West Bengal,Dakshin Dinajpur,197.0,385.0,582
+2018-09-01,West Bengal,Maldah ,555.0,803.0,1358
+2018-09-01,West Bengal,Murshidabad ,1074.0,1577.0,2651
+2018-09-01,West Bengal,Birbhum,656.0,994.0,1650
+2018-09-01,West Bengal,Purba Bardhaman ,855.0,1311.0,2166
+2018-09-01,West Bengal,Nadia ,758.0,1208.0,1966
+2018-09-01,West Bengal,North Twenty Four Parganas,253.0,380.0,633
+2018-09-01,West Bengal,Hooghly,1148.0,1588.0,2736
+2018-09-01,West Bengal,Bankura ,522.0,724.0,1246
+2018-09-01,West Bengal,Puruliya,352.0,533.0,885
+2018-09-01,West Bengal,Howrah,644.0,1019.0,1663
+2018-09-01,West Bengal,South Twenty Four Parganas,572.0,770.0,1342
+2018-09-01,West Bengal,Paschim Medinipur,329.0,449.0,778
+2018-09-01,West Bengal,Purba Medinipur,801.0,1044.0,1845
+2018-09-01,West Bengal,Alipurduar,251.0,474.0,725
+2018-09-01,West Bengal,Jhargram,66.0,117.0,183
+2018-09-01,West Bengal,Paschim Bardhaman,214.0,439.0,653
+2018-10-01,West Bengal,Darjeeling ,70.0,120.0,190
+2018-10-01,West Bengal,Jalpaiguri ,368.0,600.0,968
+2018-10-01,West Bengal,Koch Bihar ,279.0,452.0,731
+2018-10-01,West Bengal,Uttar Dinajpur,367.0,660.0,1027
+2018-10-01,West Bengal,Dakshin Dinajpur,279.0,395.0,674
+2018-10-01,West Bengal,Maldah ,522.0,869.0,1391
+2018-10-01,West Bengal,Murshidabad ,1172.0,1573.0,2745
+2018-10-01,West Bengal,Birbhum,751.0,1048.0,1799
+2018-10-01,West Bengal,Purba Bardhaman ,914.0,1450.0,2364
+2018-10-01,West Bengal,Nadia ,850.0,1290.0,2140
+2018-10-01,West Bengal,North Twenty Four Parganas,262.0,368.0,630
+2018-10-01,West Bengal,Hooghly,1121.0,1752.0,2873
+2018-10-01,West Bengal,Bankura ,507.0,769.0,1276
+2018-10-01,West Bengal,Puruliya,360.0,585.0,945
+2018-10-01,West Bengal,Howrah,709.0,1054.0,1763
+2018-10-01,West Bengal,South Twenty Four Parganas,557.0,794.0,1351
+2018-10-01,West Bengal,Paschim Medinipur,389.0,528.0,917
+2018-10-01,West Bengal,Purba Medinipur,907.0,1187.0,2094
+2018-10-01,West Bengal,Alipurduar,301.0,499.0,800
+2018-10-01,West Bengal,Jhargram,58.0,126.0,184
+2018-10-01,West Bengal,Paschim Bardhaman,251.0,432.0,683
+2018-11-01,West Bengal,Darjeeling ,79.0,132.0,211
+2018-11-01,West Bengal,Jalpaiguri ,402.0,667.0,1069
+2018-11-01,West Bengal,Koch Bihar ,304.0,498.0,802
+2018-11-01,West Bengal,Uttar Dinajpur,423.0,688.0,1111
+2018-11-01,West Bengal,Dakshin Dinajpur,306.0,414.0,720
+2018-11-01,West Bengal,Maldah ,604.0,923.0,1527
+2018-11-01,West Bengal,Murshidabad ,1214.0,1637.0,2851
+2018-11-01,West Bengal,Birbhum,767.0,1030.0,1797
+2018-11-01,West Bengal,Purba Bardhaman ,918.0,1408.0,2326
+2018-11-01,West Bengal,Nadia ,850.0,1334.0,2184
+2018-11-01,West Bengal,North Twenty Four Parganas,299.0,397.0,696
+2018-11-01,West Bengal,Hooghly,1219.0,1824.0,3043
+2018-11-01,West Bengal,Bankura ,566.0,763.0,1329
+2018-11-01,West Bengal,Puruliya,390.0,614.0,1004
+2018-11-01,West Bengal,Howrah,719.0,1115.0,1834
+2018-11-01,West Bengal,South Twenty Four Parganas,621.0,860.0,1481
+2018-11-01,West Bengal,Paschim Medinipur,436.0,625.0,1061
+2018-11-01,West Bengal,Purba Medinipur,995.0,1241.0,2236
+2018-11-01,West Bengal,Alipurduar,295.0,546.0,841
+2018-11-01,West Bengal,Kalimpong,0.0,1.0,1
+2018-11-01,West Bengal,Jhargram,80.0,140.0,220
+2018-11-01,West Bengal,Paschim Bardhaman,260.0,427.0,687
+2018-12-01,West Bengal,Darjeeling ,83.0,130.0,213
+2018-12-01,West Bengal,Jalpaiguri ,424.0,617.0,1041
+2018-12-01,West Bengal,Koch Bihar ,341.0,557.0,898
+2018-12-01,West Bengal,Uttar Dinajpur,506.0,811.0,1317
+2018-12-01,West Bengal,Dakshin Dinajpur,370.0,502.0,872
+2018-12-01,West Bengal,Maldah ,685.0,1034.0,1719
+2018-12-01,West Bengal,Murshidabad ,1425.0,1821.0,3246
+2018-12-01,West Bengal,Birbhum,866.0,1144.0,2010
+2018-12-01,West Bengal,Purba Bardhaman ,1078.0,1638.0,2716
+2018-12-01,West Bengal,Nadia ,1101.0,1536.0,2637
+2018-12-01,West Bengal,North Twenty Four Parganas,391.0,539.0,930
+2018-12-01,West Bengal,Hooghly,1635.0,2185.0,3820
+2018-12-01,West Bengal,Bankura ,721.0,850.0,1571
+2018-12-01,West Bengal,Puruliya,521.0,675.0,1196
+2018-12-01,West Bengal,Howrah,1036.0,1412.0,2448
+2018-12-01,West Bengal,South Twenty Four Parganas,839.0,1114.0,1953
+2018-12-01,West Bengal,Paschim Medinipur,613.0,793.0,1406
+2018-12-01,West Bengal,Purba Medinipur,1235.0,1611.0,2846
+2018-12-01,West Bengal,Alipurduar,368.0,564.0,932
+2018-12-01,West Bengal,Kalimpong,7.0,12.0,19
+2018-12-01,West Bengal,Jhargram,106.0,165.0,271
+2018-12-01,West Bengal,Paschim Bardhaman,316.0,497.0,813
+2019-01-01,West Bengal,Darjeeling ,122.0,189.0,311
+2019-01-01,West Bengal,Jalpaiguri ,454.0,641.0,1095
+2019-01-01,West Bengal,Koch Bihar ,356.0,562.0,918
+2019-01-01,West Bengal,Uttar Dinajpur,552.0,883.0,1435
+2019-01-01,West Bengal,Dakshin Dinajpur,341.0,541.0,882
+2019-01-01,West Bengal,Maldah ,726.0,1077.0,1803
+2019-01-01,West Bengal,Murshidabad ,1416.0,1808.0,3224
+2019-01-01,West Bengal,Birbhum,831.0,1118.0,1949
+2019-01-01,West Bengal,Purba Bardhaman ,1146.0,1632.0,2778
+2019-01-01,West Bengal,Nadia ,1237.0,1761.0,2998
+2019-01-01,West Bengal,North Twenty Four Parganas,479.0,655.0,1134
+2019-01-01,West Bengal,Hooghly,1760.0,2211.0,3971
+2019-01-01,West Bengal,Bankura ,683.0,919.0,1602
+2019-01-01,West Bengal,Puruliya,479.0,677.0,1156
+2019-01-01,West Bengal,Howrah,1034.0,1369.0,2403
+2019-01-01,West Bengal,South Twenty Four Parganas,910.0,1228.0,2138
+2019-01-01,West Bengal,Paschim Medinipur,702.0,940.0,1642
+2019-01-01,West Bengal,Purba Medinipur,1329.0,1595.0,2924
+2019-01-01,West Bengal,Alipurduar,371.0,573.0,944
+2019-01-01,West Bengal,Kalimpong,5.0,10.0,15
+2019-01-01,West Bengal,Jhargram,136.0,196.0,332
+2019-01-01,West Bengal,Paschim Bardhaman,389.0,571.0,960
+2019-02-01,West Bengal,Darjeeling ,93.0,165.0,258
+2019-02-01,West Bengal,Jalpaiguri ,361.0,561.0,922
+2019-02-01,West Bengal,Koch Bihar ,321.0,516.0,837
+2019-02-01,West Bengal,Uttar Dinajpur,450.0,742.0,1192
+2019-02-01,West Bengal,Dakshin Dinajpur,337.0,436.0,773
+2019-02-01,West Bengal,Maldah ,656.0,917.0,1573
+2019-02-01,West Bengal,Murshidabad ,1217.0,1669.0,2886
+2019-02-01,West Bengal,Birbhum,691.0,1010.0,1701
+2019-02-01,West Bengal,Purba Bardhaman ,944.0,1359.0,2303
+2019-02-01,West Bengal,Nadia ,1008.0,1378.0,2386
+2019-02-01,West Bengal,North Twenty Four Parganas,453.0,586.0,1039
+2019-02-01,West Bengal,Hooghly,1374.0,1779.0,3153
+2019-02-01,West Bengal,Bankura ,573.0,758.0,1331
+2019-02-01,West Bengal,Puruliya,400.0,601.0,1001
+2019-02-01,West Bengal,Howrah,789.0,1188.0,1977
+2019-02-01,West Bengal,South Twenty Four Parganas,756.0,1021.0,1777
+2019-02-01,West Bengal,Paschim Medinipur,599.0,764.0,1363
+2019-02-01,West Bengal,Purba Medinipur,1000.0,1220.0,2220
+2019-02-01,West Bengal,Alipurduar,295.0,484.0,779
+2019-02-01,West Bengal,Jhargram,80.0,126.0,206
+2019-02-01,West Bengal,Paschim Bardhaman,338.0,499.0,837
+2019-03-01,West Bengal,Darjeeling ,120.0,210.0,330
+2019-03-01,West Bengal,Jalpaiguri ,385.0,602.0,987
+2019-03-01,West Bengal,Koch Bihar ,337.0,506.0,843
+2019-03-01,West Bengal,Uttar Dinajpur,434.0,740.0,1174
+2019-03-01,West Bengal,Dakshin Dinajpur,339.0,466.0,805
+2019-03-01,West Bengal,Maldah ,682.0,1074.0,1756
+2019-03-01,West Bengal,Murshidabad ,1232.0,1716.0,2948
+2019-03-01,West Bengal,Birbhum,682.0,1056.0,1738
+2019-03-01,West Bengal,Purba Bardhaman ,969.0,1447.0,2416
+2019-03-01,West Bengal,Nadia ,932.0,1467.0,2399
+2019-03-01,West Bengal,North Twenty Four Parganas,434.0,604.0,1038
+2019-03-01,West Bengal,Hooghly,1302.0,1715.0,3017
+2019-03-01,West Bengal,Bankura ,561.0,773.0,1334
+2019-03-01,West Bengal,Puruliya,339.0,543.0,882
+2019-03-01,West Bengal,Howrah,764.0,1152.0,1916
+2019-03-01,West Bengal,South Twenty Four Parganas,688.0,938.0,1626
+2019-03-01,West Bengal,Paschim Medinipur,659.0,929.0,1588
+2019-03-01,West Bengal,Purba Medinipur,889.0,1162.0,2051
+2019-03-01,West Bengal,Alipurduar,310.0,450.0,760
+2019-03-01,West Bengal,Jhargram,118.0,144.0,262
+2019-03-01,West Bengal,Paschim Bardhaman,295.0,463.0,758
+2019-04-01,West Bengal,Darjeeling ,146.0,198.0,344
+2019-04-01,West Bengal,Jalpaiguri ,331.0,472.0,803
+2019-04-01,West Bengal,Koch Bihar ,273.0,494.0,767
+2019-04-01,West Bengal,Uttar Dinajpur,374.0,646.0,1020
+2019-04-01,West Bengal,Dakshin Dinajpur,281.0,458.0,739
+2019-04-01,West Bengal,Maldah ,520.0,897.0,1417
+2019-04-01,West Bengal,Murshidabad ,997.0,1528.0,2525
+2019-04-01,West Bengal,Birbhum,651.0,856.0,1507
+2019-04-01,West Bengal,Purba Bardhaman ,861.0,1223.0,2084
+2019-04-01,West Bengal,Nadia ,792.0,1136.0,1928
+2019-04-01,West Bengal,North Twenty Four Parganas,390.0,549.0,939
+2019-04-01,West Bengal,Hooghly,1091.0,1498.0,2589
+2019-04-01,West Bengal,Bankura ,539.0,682.0,1221
+2019-04-01,West Bengal,Puruliya,289.0,485.0,774
+2019-04-01,West Bengal,Howrah,574.0,911.0,1485
+2019-04-01,West Bengal,South Twenty Four Parganas,588.0,868.0,1456
+2019-04-01,West Bengal,Paschim Medinipur,634.0,880.0,1514
+2019-04-01,West Bengal,Purba Medinipur,777.0,972.0,1749
+2019-04-01,West Bengal,Alipurduar,302.0,469.0,771
+2019-04-01,West Bengal,Jhargram,82.0,142.0,224
+2019-04-01,West Bengal,Paschim Bardhaman,243.0,454.0,697
+2019-05-01,West Bengal,Darjeeling ,120.0,202.0,322
+2019-05-01,West Bengal,Jalpaiguri ,300.0,509.0,809
+2019-05-01,West Bengal,Koch Bihar ,298.0,468.0,766
+2019-05-01,West Bengal,Uttar Dinajpur,389.0,599.0,988
+2019-05-01,West Bengal,Dakshin Dinajpur,301.0,417.0,718
+2019-05-01,West Bengal,Maldah ,568.0,927.0,1495
+2019-05-01,West Bengal,Murshidabad ,1054.0,1522.0,2576
+2019-05-01,West Bengal,Birbhum,660.0,915.0,1575
+2019-05-01,West Bengal,Purba Bardhaman ,871.0,1306.0,2177
+2019-05-01,West Bengal,Nadia ,809.0,1205.0,2014
+2019-05-01,West Bengal,North Twenty Four Parganas,433.0,602.0,1035
+2019-05-01,West Bengal,Hooghly,1122.0,1548.0,2670
+2019-05-01,West Bengal,Bankura ,501.0,742.0,1243
+2019-05-01,West Bengal,Puruliya,346.0,586.0,932
+2019-05-01,West Bengal,Howrah,666.0,926.0,1592
+2019-05-01,West Bengal,South Twenty Four Parganas,628.0,957.0,1585
+2019-05-01,West Bengal,Paschim Medinipur,657.0,911.0,1568
+2019-05-01,West Bengal,Purba Medinipur,836.0,1070.0,1906
+2019-05-01,West Bengal,Alipurduar,310.0,444.0,754
+2019-05-01,West Bengal,Jhargram,110.0,162.0,272
+2019-05-01,West Bengal,Paschim Bardhaman,300.0,512.0,812
+2019-06-01,West Bengal,Darjeeling ,111.0,198.0,309
+2019-06-01,West Bengal,Jalpaiguri ,331.0,600.0,931
+2019-06-01,West Bengal,Koch Bihar ,333.0,481.0,814
+2019-06-01,West Bengal,Uttar Dinajpur,427.0,661.0,1088
+2019-06-01,West Bengal,Dakshin Dinajpur,313.0,492.0,805
+2019-06-01,West Bengal,Maldah ,623.0,946.0,1569
+2019-06-01,West Bengal,Murshidabad ,1130.0,1641.0,2771
+2019-06-01,West Bengal,Birbhum,679.0,1056.0,1735
+2019-06-01,West Bengal,Purba Bardhaman ,849.0,1392.0,2241
+2019-06-01,West Bengal,Nadia ,832.0,1279.0,2111
+2019-06-01,West Bengal,North Twenty Four Parganas,481.0,730.0,1211
+2019-06-01,West Bengal,Hooghly,1157.0,1621.0,2778
+2019-06-01,West Bengal,Bankura ,524.0,780.0,1304
+2019-06-01,West Bengal,Puruliya,361.0,606.0,967
+2019-06-01,West Bengal,Howrah,721.0,1108.0,1829
+2019-06-01,West Bengal,South Twenty Four Parganas,752.0,1058.0,1810
+2019-06-01,West Bengal,Paschim Medinipur,770.0,1098.0,1868
+2019-06-01,West Bengal,Purba Medinipur,863.0,1114.0,1977
+2019-06-01,West Bengal,Alipurduar,270.0,437.0,707
+2019-06-01,West Bengal,Jhargram,108.0,190.0,298
+2019-06-01,West Bengal,Paschim Bardhaman,326.0,568.0,894
+2019-07-01,West Bengal,Darjeeling ,134.0,251.0,385
+2019-07-01,West Bengal,Jalpaiguri ,393.0,648.0,1041
+2019-07-01,West Bengal,Koch Bihar ,365.0,588.0,953
+2019-07-01,West Bengal,Uttar Dinajpur,422.0,708.0,1130
+2019-07-01,West Bengal,Dakshin Dinajpur,311.0,481.0,792
+2019-07-01,West Bengal,Maldah ,601.0,967.0,1568
+2019-07-01,West Bengal,Murshidabad ,1189.0,1772.0,2961
+2019-07-01,West Bengal,Birbhum,706.0,1024.0,1730
+2019-07-01,West Bengal,Purba Bardhaman ,1025.0,1512.0,2537
+2019-07-01,West Bengal,Nadia ,835.0,1339.0,2174
+2019-07-01,West Bengal,North Twenty Four Parganas,523.0,776.0,1299
+2019-07-01,West Bengal,Hooghly,1194.0,1585.0,2779
+2019-07-01,West Bengal,Bankura ,650.0,953.0,1603
+2019-07-01,West Bengal,Puruliya,412.0,683.0,1095
+2019-07-01,West Bengal,Howrah,630.0,968.0,1598
+2019-07-01,West Bengal,South Twenty Four Parganas,706.0,977.0,1683
+2019-07-01,West Bengal,Paschim Medinipur,828.0,1179.0,2007
+2019-07-01,West Bengal,Purba Medinipur,883.0,1151.0,2034
+2019-07-01,West Bengal,Alipurduar,324.0,525.0,849
+2019-07-01,West Bengal,Jhargram,117.0,197.0,314
+2019-07-01,West Bengal,Paschim Bardhaman,339.0,562.0,901
+2019-08-01,West Bengal,Darjeeling ,159.0,261.0,420
+2019-08-01,West Bengal,Jalpaiguri ,379.0,590.0,969
+2019-08-01,West Bengal,Koch Bihar ,353.0,542.0,895
+2019-08-01,West Bengal,Uttar Dinajpur,440.0,793.0,1233
+2019-08-01,West Bengal,Dakshin Dinajpur,328.0,520.0,848
+2019-08-01,West Bengal,Maldah ,628.0,996.0,1624
+2019-08-01,West Bengal,Murshidabad ,1166.0,1587.0,2753
+2019-08-01,West Bengal,Birbhum,769.0,1027.0,1796
+2019-08-01,West Bengal,Purba Bardhaman ,935.0,1434.0,2369
+2019-08-01,West Bengal,Nadia ,805.0,1218.0,2023
+2019-08-01,West Bengal,North Twenty Four Parganas,456.0,665.0,1121
+2019-08-01,West Bengal,Hooghly,1110.0,1520.0,2630
+2019-08-01,West Bengal,Bankura ,650.0,853.0,1503
+2019-08-01,West Bengal,Puruliya,500.0,765.0,1265
+2019-08-01,West Bengal,Howrah,640.0,929.0,1569
+2019-08-01,West Bengal,South Twenty Four Parganas,677.0,988.0,1665
+2019-08-01,West Bengal,Paschim Medinipur,887.0,1156.0,2043
+2019-08-01,West Bengal,Purba Medinipur,852.0,1081.0,1933
+2019-08-01,West Bengal,Alipurduar,289.0,458.0,747
+2019-08-01,West Bengal,Jhargram,161.0,237.0,398
+2019-08-01,West Bengal,Paschim Bardhaman,333.0,557.0,890
+2019-09-01,West Bengal,Darjeeling ,111.0,224.0,335
+2019-09-01,West Bengal,Jalpaiguri ,286.0,460.0,746
+2019-09-01,West Bengal,Koch Bihar ,325.0,492.0,817
+2019-09-01,West Bengal,Uttar Dinajpur,438.0,712.0,1150
+2019-09-01,West Bengal,Dakshin Dinajpur,278.0,467.0,745
+2019-09-01,West Bengal,Maldah ,565.0,935.0,1500
+2019-09-01,West Bengal,Murshidabad ,1038.0,1389.0,2427
+2019-09-01,West Bengal,Birbhum,611.0,972.0,1583
+2019-09-01,West Bengal,Purba Bardhaman ,872.0,1356.0,2228
+2019-09-01,West Bengal,Nadia ,768.0,1171.0,1939
+2019-09-01,West Bengal,North Twenty Four Parganas,468.0,650.0,1118
+2019-09-01,West Bengal,Hooghly,1112.0,1473.0,2585
+2019-09-01,West Bengal,Bankura ,545.0,755.0,1300
+2019-09-01,West Bengal,Puruliya,365.0,601.0,966
+2019-09-01,West Bengal,Howrah,611.0,868.0,1479
+2019-09-01,West Bengal,South Twenty Four Parganas,721.0,983.0,1704
+2019-09-01,West Bengal,Paschim Medinipur,839.0,1097.0,1936
+2019-09-01,West Bengal,Purba Medinipur,770.0,1028.0,1798
+2019-09-01,West Bengal,Alipurduar,273.0,432.0,705
+2019-09-01,West Bengal,Jhargram,160.0,215.0,375
+2019-09-01,West Bengal,Paschim Bardhaman,317.0,472.0,789
+2019-10-01,West Bengal,Darjeeling ,147.0,323.0,470
+2019-10-01,West Bengal,Jalpaiguri ,407.0,641.0,1048
+2019-10-01,West Bengal,Koch Bihar ,372.0,609.0,981
+2019-10-01,West Bengal,Uttar Dinajpur,483.0,796.0,1279
+2019-10-01,West Bengal,Dakshin Dinajpur,371.0,592.0,963
+2019-10-01,West Bengal,Maldah ,699.0,1060.0,1759
+2019-10-01,West Bengal,Murshidabad ,1300.0,1699.0,2999
+2019-10-01,West Bengal,Birbhum,816.0,1014.0,1830
+2019-10-01,West Bengal,Purba Bardhaman ,1010.0,1563.0,2573
+2019-10-01,West Bengal,Nadia ,909.0,1341.0,2250
+2019-10-01,West Bengal,North Twenty Four Parganas,566.0,721.0,1287
+2019-10-01,West Bengal,Hooghly,1367.0,1751.0,3118
+2019-10-01,West Bengal,Bankura ,610.0,912.0,1522
+2019-10-01,West Bengal,Puruliya,438.0,712.0,1150
+2019-10-01,West Bengal,Howrah,756.0,1086.0,1842
+2019-10-01,West Bengal,South Twenty Four Parganas,877.0,1188.0,2065
+2019-10-01,West Bengal,Paschim Medinipur,979.0,1387.0,2366
+2019-10-01,West Bengal,Purba Medinipur,924.0,1237.0,2161
+2019-10-01,West Bengal,Alipurduar,346.0,503.0,849
+2019-10-01,West Bengal,Jhargram,217.0,292.0,509
+2019-10-01,West Bengal,Paschim Bardhaman,374.0,632.0,1006
+2019-11-01,West Bengal,Darjeeling ,180.0,289.0,469
+2019-11-01,West Bengal,Jalpaiguri ,406.0,640.0,1046
+2019-11-01,West Bengal,Koch Bihar ,443.0,649.0,1092
+2019-11-01,West Bengal,Uttar Dinajpur,555.0,810.0,1365
+2019-11-01,West Bengal,Dakshin Dinajpur,399.0,622.0,1021
+2019-11-01,West Bengal,Maldah ,779.0,1161.0,1940
+2019-11-01,West Bengal,Murshidabad ,1414.0,1730.0,3144
+2019-11-01,West Bengal,Birbhum,870.0,1121.0,1991
+2019-11-01,West Bengal,Purba Bardhaman ,1103.0,1545.0,2648
+2019-11-01,West Bengal,Nadia ,919.0,1400.0,2319
+2019-11-01,West Bengal,North Twenty Four Parganas,592.0,797.0,1389
+2019-11-01,West Bengal,Hooghly,1369.0,1752.0,3121
+2019-11-01,West Bengal,Bankura ,733.0,936.0,1669
+2019-11-01,West Bengal,Puruliya,510.0,736.0,1246
+2019-11-01,West Bengal,Howrah,816.0,1186.0,2002
+2019-11-01,West Bengal,South Twenty Four Parganas,1033.0,1308.0,2341
+2019-11-01,West Bengal,Paschim Medinipur,1058.0,1476.0,2534
+2019-11-01,West Bengal,Purba Medinipur,1079.0,1320.0,2399
+2019-11-01,West Bengal,Alipurduar,319.0,545.0,864
+2019-11-01,West Bengal,Jhargram,232.0,319.0,551
+2019-11-01,West Bengal,Paschim Bardhaman,322.0,644.0,966
+2019-12-01,West Bengal,Darjeeling ,225.0,353.0,578
+2019-12-01,West Bengal,Jalpaiguri ,533.0,762.0,1295
+2019-12-01,West Bengal,Koch Bihar ,592.0,808.0,1400
+2019-12-01,West Bengal,Uttar Dinajpur,736.0,1133.0,1869
+2019-12-01,West Bengal,Dakshin Dinajpur,539.0,752.0,1291
+2019-12-01,West Bengal,Maldah ,917.0,1376.0,2293
+2019-12-01,West Bengal,Murshidabad ,1668.0,2055.0,3723
+2019-12-01,West Bengal,Birbhum,1035.0,1321.0,2356
+2019-12-01,West Bengal,Purba Bardhaman ,1311.0,1875.0,3186
+2019-12-01,West Bengal,Nadia ,1227.0,1644.0,2871
+2019-12-01,West Bengal,North Twenty Four Parganas,831.0,1132.0,1963
+2019-12-01,West Bengal,Hooghly,1783.0,2322.0,4105
+2019-12-01,West Bengal,Bankura ,871.0,1191.0,2062
+2019-12-01,West Bengal,Puruliya,625.0,896.0,1521
+2019-12-01,West Bengal,Howrah,1114.0,1481.0,2595
+2019-12-01,West Bengal,South Twenty Four Parganas,1239.0,1686.0,2925
+2019-12-01,West Bengal,Paschim Medinipur,1321.0,1793.0,3114
+2019-12-01,West Bengal,Purba Medinipur,1281.0,1597.0,2878
+2019-12-01,West Bengal,Alipurduar,384.0,595.0,979
+2019-12-01,West Bengal,Jhargram,303.0,352.0,655
+2019-12-01,West Bengal,Paschim Bardhaman,460.0,733.0,1193
+2020-01-01,West Bengal,Darjeeling ,276.0,413.0,689
+2020-01-01,West Bengal,Jalpaiguri ,489.0,691.0,1180
+2020-01-01,West Bengal,Koch Bihar ,516.0,756.0,1272
+2020-01-01,West Bengal,Uttar Dinajpur,684.0,1042.0,1726
+2020-01-01,West Bengal,Dakshin Dinajpur,495.0,668.0,1163
+2020-01-01,West Bengal,Maldah ,894.0,1267.0,2161
+2020-01-01,West Bengal,Murshidabad ,1644.0,2064.0,3708
+2020-01-01,West Bengal,Birbhum,947.0,1256.0,2203
+2020-01-01,West Bengal,Purba Bardhaman ,1313.0,1788.0,3101
+2020-01-01,West Bengal,Nadia ,1366.0,1739.0,3105
+2020-01-01,West Bengal,North Twenty Four Parganas,883.0,1221.0,2104
+2020-01-01,West Bengal,Hooghly,1991.0,2389.0,4380
+2020-01-01,West Bengal,Bankura ,850.0,1143.0,1993
+2020-01-01,West Bengal,Puruliya,633.0,835.0,1468
+2020-01-01,West Bengal,Howrah,1221.0,1502.0,2723
+2020-01-01,West Bengal,South Twenty Four Parganas,1341.0,1568.0,2909
+2020-01-01,West Bengal,Paschim Medinipur,1284.0,1745.0,3029
+2020-01-01,West Bengal,Purba Medinipur,1316.0,1778.0,3094
+2020-01-01,West Bengal,Alipurduar,355.0,580.0,935
+2020-01-01,West Bengal,Kalimpong,0.0,1.0,1
+2020-01-01,West Bengal,Jhargram,291.0,447.0,738
+2020-01-01,West Bengal,Paschim Bardhaman,465.0,760.0,1225
+2020-02-01,West Bengal,Darjeeling ,246.0,452.0,698
+2020-02-01,West Bengal,Jalpaiguri ,430.0,651.0,1081
+2020-02-01,West Bengal,Koch Bihar ,453.0,683.0,1136
+2020-02-01,West Bengal,Uttar Dinajpur,552.0,836.0,1388
+2020-02-01,West Bengal,Dakshin Dinajpur,393.0,557.0,950
+2020-02-01,West Bengal,Maldah ,789.0,1116.0,1905
+2020-02-01,West Bengal,Murshidabad ,1322.0,1742.0,3064
+2020-02-01,West Bengal,Birbhum,807.0,1157.0,1964
+2020-02-01,West Bengal,Purba Bardhaman ,1190.0,1671.0,2861
+2020-02-01,West Bengal,Nadia ,1046.0,1476.0,2522
+2020-02-01,West Bengal,North Twenty Four Parganas,788.0,1050.0,1838
+2020-02-01,West Bengal,Hooghly,1584.0,1910.0,3494
+2020-02-01,West Bengal,Bankura ,685.0,913.0,1598
+2020-02-01,West Bengal,Puruliya,494.0,769.0,1263
+2020-02-01,West Bengal,Howrah,886.0,1217.0,2103
+2020-02-01,West Bengal,South Twenty Four Parganas,1106.0,1432.0,2538
+2020-02-01,West Bengal,Paschim Medinipur,1098.0,1440.0,2538
+2020-02-01,West Bengal,Purba Medinipur,1043.0,1291.0,2334
+2020-02-01,West Bengal,Alipurduar,332.0,521.0,853
+2020-02-01,West Bengal,Kalimpong,1.0,1.0,2
+2020-02-01,West Bengal,Jhargram,249.0,367.0,616
+2020-02-01,West Bengal,Paschim Bardhaman,399.0,655.0,1054
+2020-03-01,West Bengal,Darjeeling ,232.0,387.0,619
+2020-03-01,West Bengal,Jalpaiguri ,345.0,512.0,857
+2020-03-01,West Bengal,Koch Bihar ,338.0,576.0,914
+2020-03-01,West Bengal,Uttar Dinajpur,332.0,581.0,913
+2020-03-01,West Bengal,Dakshin Dinajpur,311.0,411.0,722
+2020-03-01,West Bengal,Maldah ,575.0,922.0,1497
+2020-03-01,West Bengal,Murshidabad ,1166.0,1530.0,2696
+2020-03-01,West Bengal,Birbhum,641.0,971.0,1612
+2020-03-01,West Bengal,Purba Bardhaman ,938.0,1409.0,2347
+2020-03-01,West Bengal,Nadia ,871.0,1387.0,2258
+2020-03-01,West Bengal,North Twenty Four Parganas,604.0,877.0,1481
+2020-03-01,West Bengal,Hooghly,1229.0,1699.0,2928
+2020-03-01,West Bengal,Bankura ,534.0,748.0,1282
+2020-03-01,West Bengal,Puruliya,348.0,568.0,916
+2020-03-01,West Bengal,Howrah,606.0,961.0,1567
+2020-03-01,West Bengal,South Twenty Four Parganas,798.0,1178.0,1976
+2020-03-01,West Bengal,Paschim Medinipur,864.0,1237.0,2101
+2020-03-01,West Bengal,Purba Medinipur,927.0,1186.0,2113
+2020-03-01,West Bengal,Alipurduar,282.0,447.0,729
+2020-03-01,West Bengal,Kalimpong,3.0,1.0,4
+2020-03-01,West Bengal,Jhargram,163.0,286.0,449
+2020-03-01,West Bengal,Paschim Bardhaman,382.0,628.0,1010
+2020-04-01,West Bengal,Darjeeling ,253.0,407.0,660
+2020-04-01,West Bengal,Jalpaiguri ,339.0,443.0,782
+2020-04-01,West Bengal,Koch Bihar ,343.0,533.0,876
+2020-04-01,West Bengal,Uttar Dinajpur,411.0,617.0,1028
+2020-04-01,West Bengal,Dakshin Dinajpur,334.0,462.0,796
+2020-04-01,West Bengal,Maldah ,631.0,904.0,1535
+2020-04-01,West Bengal,Murshidabad ,1091.0,1442.0,2533
+2020-04-01,West Bengal,Birbhum,624.0,859.0,1483
+2020-04-01,West Bengal,Purba Bardhaman ,822.0,1168.0,1990
+2020-04-01,West Bengal,Nadia ,816.0,1140.0,1956
+2020-04-01,West Bengal,North Twenty Four Parganas,556.0,786.0,1342
+2020-04-01,West Bengal,Hooghly,1071.0,1461.0,2532
+2020-04-01,West Bengal,Bankura ,479.0,676.0,1155
+2020-04-01,West Bengal,Puruliya,372.0,569.0,941
+2020-04-01,West Bengal,Howrah,497.0,746.0,1243
+2020-04-01,West Bengal,South Twenty Four Parganas,732.0,997.0,1729
+2020-04-01,West Bengal,Paschim Medinipur,825.0,1067.0,1892
+2020-04-01,West Bengal,Purba Medinipur,703.0,986.0,1689
+2020-04-01,West Bengal,Alipurduar,290.0,470.0,760
+2020-04-01,West Bengal,Kalimpong,0.0,1.0,1
+2020-04-01,West Bengal,Jhargram,147.0,251.0,398
+2020-04-01,West Bengal,Paschim Bardhaman,306.0,474.0,780
+2020-05-01,West Bengal,Darjeeling ,263.0,412.0,675
+2020-05-01,West Bengal,Jalpaiguri ,370.0,507.0,877
+2020-05-01,West Bengal,Koch Bihar ,382.0,569.0,951
+2020-05-01,West Bengal,Uttar Dinajpur,441.0,690.0,1131
+2020-05-01,West Bengal,Dakshin Dinajpur,311.0,543.0,854
+2020-05-01,West Bengal,Maldah ,697.0,1003.0,1700
+2020-05-01,West Bengal,Murshidabad ,1070.0,1472.0,2542
+2020-05-01,West Bengal,Birbhum,633.0,861.0,1494
+2020-05-01,West Bengal,Purba Bardhaman ,918.0,1297.0,2215
+2020-05-01,West Bengal,Nadia ,862.0,1230.0,2092
+2020-05-01,West Bengal,North Twenty Four Parganas,655.0,906.0,1561
+2020-05-01,West Bengal,Hooghly,1165.0,1581.0,2746
+2020-05-01,West Bengal,Bankura ,501.0,739.0,1240
+2020-05-01,West Bengal,Puruliya,394.0,632.0,1026
+2020-05-01,West Bengal,Howrah,687.0,1018.0,1705
+2020-05-01,West Bengal,South Twenty Four Parganas,841.0,1309.0,2150
+2020-05-01,West Bengal,Paschim Medinipur,860.0,1267.0,2127
+2020-05-01,West Bengal,Purba Medinipur,867.0,1182.0,2049
+2020-05-01,West Bengal,Alipurduar,308.0,445.0,753
+2020-05-01,West Bengal,Kalimpong,1.0,1.0,2
+2020-05-01,West Bengal,Jhargram,179.0,277.0,456
+2020-05-01,West Bengal,Paschim Bardhaman,303.0,532.0,835
+2020-06-01,West Bengal,Darjeeling ,324.0,551.0,875
+2020-06-01,West Bengal,Jalpaiguri ,328.0,523.0,851
+2020-06-01,West Bengal,Koch Bihar ,368.0,642.0,1010
+2020-06-01,West Bengal,Uttar Dinajpur,486.0,838.0,1324
+2020-06-01,West Bengal,Dakshin Dinajpur,333.0,565.0,898
+2020-06-01,West Bengal,Maldah ,708.0,1105.0,1813
+2020-06-01,West Bengal,Murshidabad ,1169.0,1585.0,2754
+2020-06-01,West Bengal,Birbhum,679.0,1004.0,1683
+2020-06-01,West Bengal,Purba Bardhaman ,990.0,1430.0,2420
+2020-06-01,West Bengal,Nadia ,793.0,1235.0,2028
+2020-06-01,West Bengal,North Twenty Four Parganas,651.0,972.0,1623
+2020-06-01,West Bengal,Hooghly,1164.0,1555.0,2719
+2020-06-01,West Bengal,Bankura ,518.0,840.0,1358
+2020-06-01,West Bengal,Puruliya,374.0,589.0,963
+2020-06-01,West Bengal,Howrah,676.0,1013.0,1689
+2020-06-01,West Bengal,South Twenty Four Parganas,1033.0,1343.0,2376
+2020-06-01,West Bengal,Paschim Medinipur,849.0,1145.0,1994
+2020-06-01,West Bengal,Purba Medinipur,846.0,1171.0,2017
+2020-06-01,West Bengal,Alipurduar,282.0,490.0,772
+2020-06-01,West Bengal,Jhargram,192.0,276.0,468
+2020-06-01,West Bengal,Paschim Bardhaman,315.0,555.0,870
+2020-07-01,West Bengal,Darjeeling ,350.0,679.0,1029
+2020-07-01,West Bengal,Jalpaiguri ,359.0,571.0,930
+2020-07-01,West Bengal,Koch Bihar ,356.0,664.0,1020
+2020-07-01,West Bengal,Uttar Dinajpur,507.0,876.0,1383
+2020-07-01,West Bengal,Dakshin Dinajpur,382.0,582.0,964
+2020-07-01,West Bengal,Maldah ,794.0,1412.0,2206
+2020-07-01,West Bengal,Murshidabad ,1302.0,1972.0,3274
+2020-07-01,West Bengal,Birbhum,755.0,1147.0,1902
+2020-07-01,West Bengal,Purba Bardhaman ,991.0,1634.0,2625
+2020-07-01,West Bengal,Nadia ,941.0,1467.0,2408
+2020-07-01,West Bengal,North Twenty Four Parganas,871.0,1340.0,2211
+2020-07-01,West Bengal,Hooghly,1267.0,1927.0,3194
+2020-07-01,West Bengal,Bankura ,584.0,977.0,1561
+2020-07-01,West Bengal,Puruliya,438.0,689.0,1127
+2020-07-01,West Bengal,Howrah,751.0,1291.0,2042
+2020-07-01,West Bengal,South Twenty Four Parganas,1083.0,1620.0,2703
+2020-07-01,West Bengal,Paschim Medinipur,894.0,1365.0,2259
+2020-07-01,West Bengal,Purba Medinipur,970.0,1300.0,2270
+2020-07-01,West Bengal,Alipurduar,322.0,473.0,795
+2020-07-01,West Bengal,Jhargram,195.0,355.0,550
+2020-07-01,West Bengal,Paschim Bardhaman,336.0,669.0,1005
+2020-08-01,West Bengal,Darjeeling ,411.0,810.0,1221
+2020-08-01,West Bengal,Jalpaiguri ,397.0,589.0,986
+2020-08-01,West Bengal,Koch Bihar ,446.0,707.0,1153
+2020-08-01,West Bengal,Uttar Dinajpur,609.0,974.0,1583
+2020-08-01,West Bengal,Dakshin Dinajpur,409.0,705.0,1114
+2020-08-01,West Bengal,Maldah ,798.0,1257.0,2055
+2020-08-01,West Bengal,Murshidabad ,1447.0,2090.0,3537
+2020-08-01,West Bengal,Birbhum,826.0,1192.0,2018
+2020-08-01,West Bengal,Purba Bardhaman ,1198.0,1755.0,2953
+2020-08-01,West Bengal,Nadia ,995.0,1687.0,2682
+2020-08-01,West Bengal,North Twenty Four Parganas,972.0,1500.0,2472
+2020-08-01,West Bengal,Hooghly,1541.0,2014.0,3555
+2020-08-01,West Bengal,Bankura ,724.0,1063.0,1787
+2020-08-01,West Bengal,Puruliya,461.0,786.0,1247
+2020-08-01,West Bengal,Howrah,834.0,1263.0,2097
+2020-08-01,West Bengal,South Twenty Four Parganas,1252.0,1737.0,2989
+2020-08-01,West Bengal,Paschim Medinipur,1038.0,1637.0,2675
+2020-08-01,West Bengal,Purba Medinipur,1046.0,1466.0,2512
+2020-08-01,West Bengal,Alipurduar,337.0,580.0,917
+2020-08-01,West Bengal,Jhargram,241.0,381.0,622
+2020-08-01,West Bengal,Paschim Bardhaman,419.0,821.0,1240
+2020-09-01,West Bengal,Darjeeling ,455.0,843.0,1298
+2020-09-01,West Bengal,Jalpaiguri ,370.0,633.0,1003
+2020-09-01,West Bengal,Koch Bihar ,503.0,754.0,1257
+2020-09-01,West Bengal,Uttar Dinajpur,544.0,975.0,1519
+2020-09-01,West Bengal,Dakshin Dinajpur,380.0,593.0,973
+2020-09-01,West Bengal,Maldah ,708.0,1127.0,1835
+2020-09-01,West Bengal,Murshidabad ,1264.0,1861.0,3125
+2020-09-01,West Bengal,Birbhum,805.0,1153.0,1958
+2020-09-01,West Bengal,Purba Bardhaman ,1093.0,1808.0,2901
+2020-09-01,West Bengal,Nadia ,939.0,1583.0,2522
+2020-09-01,West Bengal,North Twenty Four Parganas,952.0,1332.0,2284
+2020-09-01,West Bengal,Hooghly,1491.0,2111.0,3602
+2020-09-01,West Bengal,Bankura ,729.0,1178.0,1907
+2020-09-01,West Bengal,Puruliya,532.0,908.0,1440
+2020-09-01,West Bengal,Howrah,814.0,1250.0,2064
+2020-09-01,West Bengal,South Twenty Four Parganas,1093.0,1500.0,2593
+2020-09-01,West Bengal,Paschim Medinipur,1121.0,1681.0,2802
+2020-09-01,West Bengal,Purba Medinipur,1094.0,1583.0,2677
+2020-09-01,West Bengal,Alipurduar,377.0,640.0,1017
+2020-09-01,West Bengal,Kalimpong,1.0,0.0,1
+2020-09-01,West Bengal,Jhargram,196.0,304.0,500
+2020-09-01,West Bengal,Paschim Bardhaman,407.0,829.0,1236
+2020-10-01,West Bengal,Darjeeling ,406.0,892.0,1298
+2020-10-01,West Bengal,Jalpaiguri ,400.0,749.0,1149
+2020-10-01,West Bengal,Koch Bihar ,489.0,741.0,1230
+2020-10-01,West Bengal,Uttar Dinajpur,490.0,812.0,1302
+2020-10-01,West Bengal,Dakshin Dinajpur,377.0,583.0,960
+2020-10-01,West Bengal,Maldah ,699.0,1185.0,1884
+2020-10-01,West Bengal,Murshidabad ,1242.0,1903.0,3145
+2020-10-01,West Bengal,Birbhum,822.0,1197.0,2019
+2020-10-01,West Bengal,Purba Bardhaman ,1249.0,1984.0,3233
+2020-10-01,West Bengal,Nadia ,1088.0,1796.0,2884
+2020-10-01,West Bengal,North Twenty Four Parganas,1019.0,1580.0,2599
+2020-10-01,West Bengal,Hooghly,1507.0,2296.0,3803
+2020-10-01,West Bengal,Bankura ,724.0,1190.0,1914
+2020-10-01,West Bengal,Puruliya,464.0,798.0,1262
+2020-10-01,West Bengal,Howrah,911.0,1393.0,2304
+2020-10-01,West Bengal,South Twenty Four Parganas,1115.0,1678.0,2793
+2020-10-01,West Bengal,Paschim Medinipur,1095.0,1695.0,2790
+2020-10-01,West Bengal,Purba Medinipur,1150.0,1604.0,2754
+2020-10-01,West Bengal,Alipurduar,379.0,644.0,1023
+2020-10-01,West Bengal,Jhargram,225.0,436.0,661
+2020-10-01,West Bengal,Paschim Bardhaman,461.0,816.0,1277
+2020-11-01,West Bengal,Darjeeling ,532.0,989.0,1521
+2020-11-01,West Bengal,Jalpaiguri ,457.0,765.0,1222
+2020-11-01,West Bengal,Koch Bihar ,470.0,822.0,1292
+2020-11-01,West Bengal,Uttar Dinajpur,579.0,962.0,1541
+2020-11-01,West Bengal,Dakshin Dinajpur,430.0,685.0,1115
+2020-11-01,West Bengal,Maldah ,832.0,1320.0,2152
+2020-11-01,West Bengal,Murshidabad ,1496.0,2098.0,3594
+2020-11-01,West Bengal,Birbhum,917.0,1319.0,2236
+2020-11-01,West Bengal,Purba Bardhaman ,1364.0,2039.0,3403
+2020-11-01,West Bengal,Nadia ,1202.0,1958.0,3160
+2020-11-01,West Bengal,North Twenty Four Parganas,1065.0,1758.0,2823
+2020-11-01,West Bengal,Hooghly,1589.0,2379.0,3968
+2020-11-01,West Bengal,Bankura ,887.0,1335.0,2222
+2020-11-01,West Bengal,Puruliya,543.0,921.0,1464
+2020-11-01,West Bengal,Howrah,981.0,1503.0,2484
+2020-11-01,West Bengal,South Twenty Four Parganas,1354.0,1804.0,3158
+2020-11-01,West Bengal,Paschim Medinipur,1248.0,1813.0,3061
+2020-11-01,West Bengal,Purba Medinipur,1240.0,1635.0,2875
+2020-11-01,West Bengal,Alipurduar,397.0,634.0,1031
+2020-11-01,West Bengal,Jhargram,286.0,422.0,708
+2020-11-01,West Bengal,Paschim Bardhaman,488.0,825.0,1313
+2020-12-01,West Bengal,Darjeeling ,543.0,918.0,1461
+2020-12-01,West Bengal,Jalpaiguri ,496.0,770.0,1266
+2020-12-01,West Bengal,Koch Bihar ,590.0,892.0,1482
+2020-12-01,West Bengal,Uttar Dinajpur,729.0,1108.0,1837
+2020-12-01,West Bengal,Dakshin Dinajpur,522.0,789.0,1311
+2020-12-01,West Bengal,Maldah ,967.0,1501.0,2468
+2020-12-01,West Bengal,Murshidabad ,1679.0,2210.0,3889
+2020-12-01,West Bengal,Birbhum,1040.0,1368.0,2408
+2020-12-01,West Bengal,Purba Bardhaman ,1340.0,2016.0,3356
+2020-12-01,West Bengal,Nadia ,1324.0,1909.0,3233
+2020-12-01,West Bengal,North Twenty Four Parganas,1241.0,1785.0,3026
+2020-12-01,West Bengal,Hooghly,2039.0,2533.0,4572
+2020-12-01,West Bengal,Bankura ,1016.0,1440.0,2456
+2020-12-01,West Bengal,Puruliya,613.0,964.0,1577
+2020-12-01,West Bengal,Howrah,1106.0,1637.0,2743
+2020-12-01,West Bengal,South Twenty Four Parganas,1407.0,1951.0,3358
+2020-12-01,West Bengal,Paschim Medinipur,1422.0,1888.0,3310
+2020-12-01,West Bengal,Purba Medinipur,1312.0,1742.0,3054
+2020-12-01,West Bengal,Alipurduar,419.0,613.0,1032
+2020-12-01,West Bengal,Jhargram,279.0,463.0,742
+2020-12-01,West Bengal,Paschim Bardhaman,514.0,903.0,1417
+2021-01-01,West Bengal,Darjeeling ,477.0,870.0,1347
+2021-01-01,West Bengal,Jalpaiguri ,455.0,724.0,1179
+2021-01-01,West Bengal,Koch Bihar ,548.0,835.0,1383
+2021-01-01,West Bengal,Uttar Dinajpur,660.0,1150.0,1810
+2021-01-01,West Bengal,Dakshin Dinajpur,460.0,750.0,1210
+2021-01-01,West Bengal,Maldah ,867.0,1285.0,2152
+2021-01-01,West Bengal,Murshidabad ,1617.0,2103.0,3720
+2021-01-01,West Bengal,Birbhum,973.0,1366.0,2339
+2021-01-01,West Bengal,Purba Bardhaman ,1201.0,1619.0,2820
+2021-01-01,West Bengal,Nadia ,1212.0,1627.0,2839
+2021-01-01,West Bengal,North Twenty Four Parganas,1157.0,1554.0,2711
+2021-01-01,West Bengal,Hooghly,1669.0,2177.0,3846
+2021-01-01,West Bengal,Bankura ,876.0,1203.0,2079
+2021-01-01,West Bengal,Puruliya,596.0,865.0,1461
+2021-01-01,West Bengal,Howrah,1049.0,1391.0,2440
+2021-01-01,West Bengal,South Twenty Four Parganas,1304.0,1720.0,3024
+2021-01-01,West Bengal,Paschim Medinipur,1284.0,1739.0,3023
+2021-01-01,West Bengal,Purba Medinipur,1210.0,1512.0,2722
+2021-01-01,West Bengal,Alipurduar,430.0,617.0,1047
+2021-01-01,West Bengal,Jhargram,285.0,426.0,711
+2021-01-01,West Bengal,Paschim Bardhaman,584.0,911.0,1495
+2021-02-01,West Bengal,Darjeeling ,410.0,674.0,1084
+2021-02-01,West Bengal,Jalpaiguri ,423.0,579.0,1002
+2021-02-01,West Bengal,Koch Bihar ,494.0,690.0,1184
+2021-02-01,West Bengal,Uttar Dinajpur,535.0,884.0,1419
+2021-02-01,West Bengal,Dakshin Dinajpur,369.0,588.0,957
+2021-02-01,West Bengal,Maldah ,667.0,975.0,1642
+2021-02-01,West Bengal,Murshidabad ,1441.0,1869.0,3310
+2021-02-01,West Bengal,Birbhum,770.0,1087.0,1857
+2021-02-01,West Bengal,Purba Bardhaman ,1080.0,1539.0,2619
+2021-02-01,West Bengal,Nadia ,872.0,1314.0,2186
+2021-02-01,West Bengal,North Twenty Four Parganas,880.0,1218.0,2098
+2021-02-01,West Bengal,Hooghly,1387.0,1776.0,3163
+2021-02-01,West Bengal,Bankura ,705.0,931.0,1636
+2021-02-01,West Bengal,Puruliya,473.0,658.0,1131
+2021-02-01,West Bengal,Howrah,854.0,1157.0,2011
+2021-02-01,West Bengal,South Twenty Four Parganas,1067.0,1384.0,2451
+2021-02-01,West Bengal,Paschim Medinipur,991.0,1353.0,2344
+2021-02-01,West Bengal,Purba Medinipur,1052.0,1279.0,2331
+2021-02-01,West Bengal,Alipurduar,329.0,483.0,812
+2021-02-01,West Bengal,Jhargram,259.0,365.0,624
+2021-02-01,West Bengal,Paschim Bardhaman,585.0,873.0,1458
+2021-03-01,West Bengal,Darjeeling ,362.0,594.0,956
+2021-03-01,West Bengal,Jalpaiguri ,361.0,504.0,865
+2021-03-01,West Bengal,Koch Bihar ,352.0,545.0,897
+2021-03-01,West Bengal,Uttar Dinajpur,448.0,682.0,1130
+2021-03-01,West Bengal,Dakshin Dinajpur,330.0,558.0,888
+2021-03-01,West Bengal,Maldah ,537.0,838.0,1375
+2021-03-01,West Bengal,Murshidabad ,1092.0,1618.0,2710
+2021-03-01,West Bengal,Birbhum,689.0,1047.0,1736
+2021-03-01,West Bengal,Purba Bardhaman ,801.0,1176.0,1977
+2021-03-01,West Bengal,Nadia ,654.0,1082.0,1736
+2021-03-01,West Bengal,North Twenty Four Parganas,714.0,1036.0,1750
+2021-03-01,West Bengal,Hooghly,1162.0,1623.0,2785
+2021-03-01,West Bengal,Bankura ,557.0,902.0,1459
+2021-03-01,West Bengal,Puruliya,349.0,542.0,891
+2021-03-01,West Bengal,Howrah,625.0,924.0,1549
+2021-03-01,West Bengal,South Twenty Four Parganas,838.0,1119.0,1957
+2021-03-01,West Bengal,Paschim Medinipur,948.0,1194.0,2142
+2021-03-01,West Bengal,Purba Medinipur,836.0,1084.0,1920
+2021-03-01,West Bengal,Alipurduar,270.0,430.0,700
+2021-03-01,West Bengal,Jhargram,178.0,319.0,497
+2021-03-01,West Bengal,Paschim Bardhaman,509.0,846.0,1355
+2021-04-01,West Bengal,Darjeeling ,425.0,783.0,1208
+2021-04-01,West Bengal,Jalpaiguri ,359.0,599.0,958
+2021-04-01,West Bengal,Koch Bihar ,309.0,501.0,810
+2021-04-01,West Bengal,Uttar Dinajpur,344.0,706.0,1050
+2021-04-01,West Bengal,Dakshin Dinajpur,236.0,473.0,709
+2021-04-01,West Bengal,Maldah ,727.0,1188.0,1915
+2021-04-01,West Bengal,Murshidabad ,1516.0,2395.0,3911
+2021-04-01,West Bengal,Birbhum,1099.0,1583.0,2682
+2021-04-01,West Bengal,Purba Bardhaman ,966.0,1504.0,2470
+2021-04-01,West Bengal,Nadia ,681.0,1092.0,1773
+2021-04-01,West Bengal,North Twenty Four Parganas,927.0,1342.0,2269
+2021-04-01,West Bengal,Hooghly,1445.0,2014.0,3459
+2021-04-01,West Bengal,Bankura ,623.0,946.0,1569
+2021-04-01,West Bengal,Puruliya,551.0,1118.0,1669
+2021-04-01,West Bengal,Howrah,707.0,1229.0,1936
+2021-04-01,West Bengal,South Twenty Four Parganas,1065.0,1546.0,2611
+2021-04-01,West Bengal,Paschim Medinipur,894.0,1332.0,2226
+2021-04-01,West Bengal,Purba Medinipur,831.0,1163.0,1994
+2021-04-01,West Bengal,Alipurduar,289.0,444.0,733
+2021-04-01,West Bengal,Jhargram,138.0,274.0,412
+2021-04-01,West Bengal,Paschim Bardhaman,921.0,1586.0,2507
+2021-05-01,West Bengal,Darjeeling ,668.0,1406.0,2074
+2021-05-01,West Bengal,Jalpaiguri ,543.0,926.0,1469
+2021-05-01,West Bengal,Koch Bihar ,374.0,678.0,1052
+2021-05-01,West Bengal,Uttar Dinajpur,618.0,1239.0,1857
+2021-05-01,West Bengal,Dakshin Dinajpur,519.0,893.0,1412
+2021-05-01,West Bengal,Maldah ,975.0,1550.0,2525
+2021-05-01,West Bengal,Murshidabad ,2229.0,3142.0,5371
+2021-05-01,West Bengal,Birbhum,1447.0,2006.0,3453
+2021-05-01,West Bengal,Purba Bardhaman ,2017.0,2742.0,4759
+2021-05-01,West Bengal,Nadia ,1328.0,1996.0,3324
+2021-05-01,West Bengal,North Twenty Four Parganas,1706.0,2431.0,4137
+2021-05-01,West Bengal,Hooghly,2408.0,3402.0,5810
+2021-05-01,West Bengal,Bankura ,1080.0,1945.0,3025
+2021-05-01,West Bengal,Puruliya,956.0,2093.0,3049
+2021-05-01,West Bengal,Howrah,1480.0,2153.0,3633
+2021-05-01,West Bengal,South Twenty Four Parganas,1961.0,2482.0,4443
+2021-05-01,West Bengal,Paschim Medinipur,1316.0,2041.0,3357
+2021-05-01,West Bengal,Purba Medinipur,1394.0,2118.0,3512
+2021-05-01,West Bengal,Alipurduar,332.0,581.0,913
+2021-05-01,West Bengal,Jhargram,315.0,625.0,940
+2021-05-01,West Bengal,Paschim Bardhaman,1206.0,2197.0,3403
+2018-01-01,West Bengal,Kolkata,,,8293
+2018-02-01,West Bengal,Kolkata,,,6165
+2018-03-01,West Bengal,Kolkata,,,5553
+2018-04-01,West Bengal,Kolkata,,,4785
+2018-05-01,West Bengal,Kolkata,,,4964
+2018-06-01,West Bengal,Kolkata,,,5020
+2018-07-01,West Bengal,Kolkata,,,4874
+2018-08-01,West Bengal,Kolkata,,,5551
+2018-09-01,West Bengal,Kolkata,,,5486
+2018-10-01,West Bengal,Kolkata,,,5868
+2018-11-01,West Bengal,Kolkata,,,5667
+2018-12-01,West Bengal,Kolkata,,,7075
+2019-01-01,West Bengal,Kolkata,,,7862
+2019-02-01,West Bengal,Kolkata,,,6536
+2019-03-01,West Bengal,Kolkata,,,6169
+2019-04-01,West Bengal,Kolkata,,,5180
+2019-05-01,West Bengal,Kolkata,,,5293
+2019-06-01,West Bengal,Kolkata,,,5356
+2019-07-01,West Bengal,Kolkata,,,5360
+2019-08-01,West Bengal,Kolkata,,,5048
+2019-09-01,West Bengal,Kolkata,,,5029
+2019-10-01,West Bengal,Kolkata,,,5785
+2019-11-01,West Bengal,Kolkata,,,5841
+2019-12-01,West Bengal,Kolkata,,,6619
+2020-01-01,West Bengal,Kolkata,,,7532
+2020-02-01,West Bengal,Kolkata,,,6382
+2020-03-01,West Bengal,Kolkata,,,5385
+2020-04-01,West Bengal,Kolkata,,,4832
+2020-05-01,West Bengal,Kolkata,,,5361
+2020-06-01,West Bengal,Kolkata,,,4975
+2020-07-01,West Bengal,Kolkata,,,6598
+2020-08-01,West Bengal,Kolkata,,,6550
+2020-09-01,West Bengal,Kolkata,,,6039
+2020-10-01,West Bengal,Kolkata,,,6943
+2020-10-01,West Bengal,Kolkata,,,7223
+2020-12-01,West Bengal,Kolkata,,,7446
+2021-01-01,West Bengal,Kolkata,,,6387
+2021-02-01,West Bengal,Kolkata,,,5160
+2021-03-01,West Bengal,Kolkata,,,4384
+2021-04-01,West Bengal,Kolkata,,,7945
+2021-05-01,West Bengal,Kolkata,,,12665

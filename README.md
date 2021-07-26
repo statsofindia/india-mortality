@@ -18,13 +18,19 @@ Cite using *Pratap Vardhan, India Mortality Dataset, statsofindia.in, 2021.*
 
 Monthly data
 
-| State        | District           | Source  |
-| ------------- |:-------------:| -----:|
-| [Haryana](Haryana.csv) | [Haryana Districts](/district-level/Haryana-districts.csv) | CRS |
-| [Himachal Pradesh](Himachal%20Pradesh.csv) | [Himachal Pradesh Districts](/district-level/Himachal%20Pradesh-districts.csv) | CRS |
-| [Chandigarh](Chandigarh.csv) | [Chandigarh](/district-level/Chandigarh-districts.csv) | CRS |
+| State        | District           | Source  | Note |
+| ------------- |:-------------:| -----:| -----:|
+| [Haryana](Haryana.csv) | [Haryana Districts](/district-level/Haryana-districts.csv) | CRS | |
+| [Himachal Pradesh](Himachal%20Pradesh.csv) | [Himachal Pradesh Districts](/district-level/Himachal%20Pradesh-districts.csv) | CRS | |
+| [Chandigarh](Chandigarh.csv) | [Chandigarh](/district-level/Chandigarh-districts.csv) | CRS | |
+| [West Bengal](West%20Bengal.csv) | [West Bengal](/district-level/West%20Bengal-districts.csv) | CRS | Low coverage districts. See data comments 1, 2 |
 | TBD | TBD | TBD |
 
+
+### Data comments
+
+1. West Bengal: (Darjeeling , Jhargram, Kalimpong, North Twenty Four Parganas, Paschim Medinipur) have less coverage on CRS
+2. West Bengal: Kolkata doesn't gender breakup
 
 #### In Media
 
