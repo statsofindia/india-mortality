@@ -23,7 +23,8 @@ Monthly data
 | [Haryana](Haryana.csv) | [Haryana Districts](/district-level/Haryana-districts.csv) | CRS | |
 | [Himachal Pradesh](Himachal%20Pradesh.csv) | [Himachal Pradesh Districts](/district-level/Himachal%20Pradesh-districts.csv) | CRS | |
 | [Chandigarh](Chandigarh.csv) | [Chandigarh](/district-level/Chandigarh-districts.csv) | CRS | |
-| [West Bengal](West%20Bengal.csv) | [West Bengal](/district-level/West%20Bengal-districts.csv) | CRS | Low coverage districts. See data comments 1, 2 |
+| [Punjab](Punjab.csv) | - | CRS | No district data
+| [West Bengal](West%20Bengal.csv) | [West Bengal Districts](/district-level/West%20Bengal-districts.csv) | CRS | Low coverage districts. See data comments 1, 2 |
 | TBD | TBD | TBD |
 
 
